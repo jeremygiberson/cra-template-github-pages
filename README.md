@@ -22,10 +22,12 @@ For more information, please refer to:
 
 
 # TODO
-[x] setup initial template structure
-[ ] get template published so it can be used in the wild
-[ ] add .github CI files to perform build & publish steps
-[ ] add scripts to facilitate adding posts, pages, data, drafts and layouts
-[ ] add frontmatter support
-[ ] add documentation
-[ ] feature parity with jekyllrb static site generator
+A brief list of things left to do for this template:
+
+  - [x] setup initial template structure
+  - [ ] get template published so it can be used in the wild
+  - [ ] add .github CI files to perform build & publish steps
+  - [ ] add scripts to facilitate adding posts, pages, data, drafts and layouts
+  - [ ] add frontmatter support
+  - [ ] add documentation
+  - [ ] feature parity with jekyllrb static site generator
