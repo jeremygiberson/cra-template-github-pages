@@ -6,12 +6,12 @@
     "create-react-app",
     "template",
     "typescript",
-    "github-pages"
+    "github-pages",
   ],
   "description": "A GitHub Pages hosted react template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeremygiberson/cra-template-github-pages.git",
+    "url": "https://github.com/jeremygiberson/cra-template-github-pages.git"
   },
   "license": "MIT",
   "engines": {
