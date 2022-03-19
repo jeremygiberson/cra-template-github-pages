@@ -6,7 +6,7 @@
     "create-react-app",
     "template",
     "typescript",
-    "github-pages",
+    "github-pages"
   ],
   "description": "A GitHub Pages hosted react template for Create React App.",
   "repository": {
